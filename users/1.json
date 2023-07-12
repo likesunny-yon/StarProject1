@@ -1,0 +1,72 @@
+{
+    "first_name": "Robin",
+    "last_name": "Wu",
+    "professional": "Full Stack Web Developer, Blockchain Expert",
+    "overview": "Owned an in-depth practical and applicable knowledge of technical subjects from programming languages to modern frameworks for web/mobile development. Valued for thinking “out of the box” to provide top-quality software-based solutions. Expert in translating business requirements into technical solutions and managing all phases of the software development lifecycle. Have an excellent mathematical thought and solid knowledge of Data structure and Algorithms. Possess a demonstrated ability to work on multiple projects independently and as part of a team.",
+    "country": "Australia",
+    "hourRate": "40",
+    "workXP": [
+    	{
+	        "company": "Venly",
+	        "role": "Full-Stack Blockchain Developer",
+	        "description": [
+	        	"Worked remotely in a fast-paced team environment.",
+				"Built 20+ NFT minting sites and conducted end-to-end testing to ensure performance and quality of smart contract and dapp.",
+				"Participated in NFT Marketplace development, and brought remarkable growth to the company by using ML/AI.",
+				"Developed Token (based on BEP-20 on Binance Smart Chain), deployed on BSC Public Sale & Airdrop Platform Development with React.JS.",
+				"Wrote smart contracts with Solidity, conducted creating, compiling, migrating, testing and debugging smart contracts using hardhat & truffle framework."
+	        ],
+	        "start": "2021.6",
+	        "end": "2023.5"
+	    },
+	    {
+	        "company": "Atlassian",
+	        "role": "Full-Stack Web Developer",
+	        "description": [
+	        	"Designed and developed RESTful APIs using Python, Flask, and Django to enable seamless communication between front-end and backend applications.",
+				"Created high-performance Python scripts for data manipulation and analytics tasks, and optimized data storage and retrieval strategies.",
+				"Built and optimized dynamic and visually appealing user interfaces ՄUIՅ using MERN, MEAN, or MEVN technologies (MongoDB, Express.js, React/Angular/Vue.js, and Node.js).",
+				"Developed well-structured and optimized databases on MySQL, PostgreSQL, and MongoDB while designing optimized data models and database schemas.",
+				"Implement automated testing and continuous integration/continuous deployment (CI/CD) pipelines to streamline development and deployment processes."
+			],
+	        "start": "2020.1",
+	        "end": "2021.6"
+	    },
+	    {
+	        "company": "Atlassian",
+	        "role": "Web Developer",
+	        "description": [
+	        	"Applied responsive design principles to 15+ webpages using HTML/HTML 5, CSS3, JavaScript, jQuery, Bootstrap.",
+	        	"Collaborated with designers and project managers to ensure timely delivery of projects.",
+	        	"Performed Web Scraping over a catalog of 100K+ school supply products using mainly NodeJS and MongoDB; completed in 1 month.",
+	        	"Improved website performance by optimizing code and implementing caching techniques."
+	        ],
+	        "start": "2018.4",
+	        "end": "2019.12"
+	    }
+	],
+    "education": [
+    	{
+	        "university": "University of Sydney",
+	        "country": "Australia",
+	        "degree": "Bachelor of Computer Science (BCompSc)",
+	        "field": "Computer Science",
+	        "start": "2014",
+	        "end": "2018"
+	    }
+	],
+    "languages": [
+    	{
+    		"language": "Durch",
+    		"pro": "3"
+    	}
+    ],
+    "skills": ["React", "Typescript", "Next.js", "WebGL", "Python", "Tailwind CSS", "Node.js", "ExpressJS", "Django", "RESTful API", "PHP", "AI chatbot", ".NET Framework", "API Integration", "Web3"],
+    "services": ["Web Development", "Scripts & Utilities", "Ecommerce Development", "Blockchain, NFT & Cryptocurrency", "Game Design & Development", "Other - Software Development", "Web & Mobile Design", "DevOps & Solution Architecture"],
+    "street": "88 Porana Place",
+    "zipcode": "6609",
+    "city": "Dalwallinu",
+    "location": "Victoria",
+    "phone": "(08) 9052 4051",
+    "avatar": "1.jpg"
+}
